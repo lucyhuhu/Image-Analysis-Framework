@@ -1,0 +1,558 @@
+{
+    "imagesources": [
+      "---- base64 of image 1 -----",
+      "---- base64 of image 2 -----"
+    ],
+    "annotations": [
+      {
+        "responses": {
+          "TEXT_DETECTION": [
+            {
+              "bounding_box": "vertices {\n  x: 1687\n  y: 2536\n}\nvertices {\n  x: 1881\n  y: 2536\n}\nvertices {\n  x: 1881\n  y: 2566\n}\nvertices {\n  x: 1687\n  y: 2566\n}\n",
+              "text": "دیا"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 1882\n  y: 2567\n}\nvertices {\n  x: 1688\n  y: 2566\n}\nvertices {\n  x: 1688\n  y: 2537\n}\nvertices {\n  x: 1882\n  y: 2538\n}\n",
+              "text": "دیا"
+            }
+          ],
+          "LANDMARK_DETECTION": [],
+          "IMAGE_PROPERTIES": [
+            {
+              "red": 10,
+              "green": 19,
+              "blue": 16,
+              "fraction": 0.46750876
+            },
+            {
+              "red": 77,
+              "green": 46,
+              "blue": 26,
+              "fraction": 0.022315789
+            },
+            {
+              "red": 118,
+              "green": 118,
+              "blue": 120,
+              "fraction": 0.049614035
+            },
+            {
+              "red": 108,
+              "green": 71,
+              "blue": 51,
+              "fraction": 0.011438596
+            },
+            {
+              "red": 63,
+              "green": 45,
+              "blue": 26,
+              "fraction": 0.023438597
+            },
+            {
+              "red": 148,
+              "green": 109,
+              "blue": 92,
+              "fraction": 0.006596491
+            },
+            {
+              "red": 184,
+              "green": 146,
+              "blue": 131,
+              "fraction": 0.004491228
+            },
+            {
+              "red": 99,
+              "green": 78,
+              "blue": 62,
+              "fraction": 0.0042807017
+            },
+            {
+              "red": 47,
+              "green": 47,
+              "blue": 42,
+              "fraction": 0.20238596
+            },
+            {
+              "red": 43,
+              "green": 28,
+              "blue": 13,
+              "fraction": 0.013263158
+            }
+          ],
+          "LABEL_DETECTION": [
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.9770353",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/01dvt1",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.9770353",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Joint"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.9426596",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0dzf4",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.9426596",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Arm"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.9371363",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/01ssh5",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.9371363",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Shoulder"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.9183648",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/04_fs",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.9183648",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Muscle"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.916626",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/01bfm9",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.916626",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Shorts"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8869395",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0849l",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8869395",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Weightlifting"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.86816967",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/g/1tr17zw8",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.86816967",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Flash photography"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.85763305",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0c4f_",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.85763305",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Weight training"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8508074",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/019swr",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8508074",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Knee"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8453397",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/01ddm",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8453397",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Bodybuilding"
+            }
+          ],
+          "FACE_DETECTION": [
+            {
+              "headwear": 1,
+              "surprise": 1,
+              "bounding_box": "vertices {\n  x: 2311\n}\nvertices {\n  x: 3287\n}\nvertices {\n  x: 3287\n  y: 881\n}\nvertices {\n  x: 2311\n  y: 881\n}\n",
+              "joy": 1,
+              "blur": 1,
+              "sorrow": 1,
+              "anger": 1
+            },
+            {
+              "headwear": 1,
+              "surprise": 1,
+              "bounding_box": "vertices {\n  x: 939\n  y: 2578\n}\nvertices {\n  x: 1758\n  y: 2578\n}\nvertices {\n  x: 1758\n  y: 3530\n}\nvertices {\n  x: 939\n  y: 3530\n}\n",
+              "joy": 1,
+              "blur": 1,
+              "sorrow": 1,
+              "anger": 1
+            },
+            {
+              "headwear": 1,
+              "surprise": 1,
+              "bounding_box": "vertices {\n  x: 675\n  y: 2311\n}\nvertices {\n  x: 1215\n  y: 2311\n}\nvertices {\n  x: 1215\n  y: 2938\n}\nvertices {\n  x: 675\n  y: 2938\n}\n",
+              "joy": 1,
+              "blur": 1,
+              "sorrow": 1,
+              "anger": 1
+            }
+          ],
+          "OBJECT_LOCALIZATION": [
+            {
+              "score": 0.8029775,
+              "vertices": [
+                {
+                  "x": 0.08661514,
+                  "y": 0.4880586
+                },
+                {
+                  "x": 0.5038437,
+                  "y": 0.4880586
+                },
+                {
+                  "x": 0.5038437,
+                  "y": 0.9622348
+                },
+                {
+                  "x": 0.08661514,
+                  "y": 0.9622348
+                }
+              ],
+              "name": "Person"
+            },
+            {
+              "score": 0.79663235,
+              "vertices": [
+                {
+                  "x": 0.25276312,
+                  "y": 0.0032440063
+                },
+                {
+                  "x": 0.9070518,
+                  "y": 0.0032440063
+                },
+                {
+                  "x": 0.9070518,
+                  "y": 0.99462724
+                },
+                {
+                  "x": 0.25276312,
+                  "y": 0.99462724
+                }
+              ],
+              "name": "Person"
+            },
+            {
+              "score": 0.7147564,
+              "vertices": [
+                {
+                  "x": 0.3226117,
+                  "y": 0.008471989
+                },
+                {
+                  "x": 0.92209536,
+                  "y": 0.008471989
+                },
+                {
+                  "x": 0.92209536,
+                  "y": 0.99409723
+                },
+                {
+                  "x": 0.3226117,
+                  "y": 0.99409723
+                }
+              ],
+              "name": "Person"
+            },
+            {
+              "score": 0.58994323,
+              "vertices": [
+                {
+                  "x": 0.014762147,
+                  "y": 0.32765567
+                },
+                {
+                  "x": 0.22144137,
+                  "y": 0.32765567
+                },
+                {
+                  "x": 0.22144137,
+                  "y": 0.6254155
+                },
+                {
+                  "x": 0.014762147,
+                  "y": 0.6254155
+                }
+              ],
+              "name": "Dumbbell"
+            },
+            {
+              "score": 0.5885121,
+              "vertices": [
+                {
+                  "x": 0.47365162,
+                  "y": 0.08139134
+                },
+                {
+                  "x": 0.89020914,
+                  "y": 0.08139134
+                },
+                {
+                  "x": 0.89020914,
+                  "y": 0.8145084
+                },
+                {
+                  "x": 0.47365162,
+                  "y": 0.8145084
+                }
+              ],
+              "name": "Top"
+            },
+            {
+              "score": 0.54738384,
+              "vertices": [
+                {
+                  "x": 0.68504834,
+                  "y": 0.93096113
+                },
+                {
+                  "x": 0.84093016,
+                  "y": 0.93096113
+                },
+                {
+                  "x": 0.84093016,
+                  "y": 0.9973958
+                },
+                {
+                  "x": 0.68504834,
+                  "y": 0.9973958
+                }
+              ],
+              "name": "Shoe"
+            },
+            {
+              "score": 0.5055907,
+              "vertices": [
+                {
+                  "x": 0.37434146,
+                  "y": 0.8940448
+                },
+                {
+                  "x": 0.49023113,
+                  "y": 0.8940448
+                },
+                {
+                  "x": 0.49023113,
+                  "y": 0.984586
+                },
+                {
+                  "x": 0.37434146,
+                  "y": 0.984586
+                }
+              ],
+              "name": "Shoe"
+            }
+          ]
+        }
+      },
+      {
+        "responses": {
+          "TEXT_DETECTION": [
+            {
+              "bounding_box": "vertices {\n  x: 59\n  y: 90\n}\nvertices {\n  x: 443\n  y: 90\n}\nvertices {\n  x: 443\n  y: 493\n}\nvertices {\n  x: 59\n  y: 493\n}\n",
+              "text": "Stories at\nAD\nPandory\nFindFood.Guide\naping\nSubmit\nStories\n20\na pe care say"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 61\n  y: 399\n}\nvertices {\n  x: 111\n  y: 410\n}\nvertices {\n  x: 109\n  y: 419\n}\nvertices {\n  x: 59\n  y: 408\n}\n",
+              "text": "Stories"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 114\n  y: 410\n}\nvertices {\n  x: 129\n  y: 413\n}\nvertices {\n  x: 127\n  y: 422\n}\nvertices {\n  x: 112\n  y: 419\n}\n",
+              "text": "at"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 213\n  y: 316\n}\nvertices {\n  x: 178\n  y: 370\n}\nvertices {\n  x: 134\n  y: 342\n}\nvertices {\n  x: 169\n  y: 288\n}\n",
+              "text": "AD"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 134\n  y: 330\n}\nvertices {\n  x: 192\n  y: 342\n}\nvertices {\n  x: 191\n  y: 347\n}\nvertices {\n  x: 133\n  y: 336\n}\n",
+              "text": "Pandory"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 102\n  y: 431\n}\nvertices {\n  x: 165\n  y: 444\n}\nvertices {\n  x: 163\n  y: 450\n}\nvertices {\n  x: 101\n  y: 438\n}\n",
+              "text": "FindFood.Guide"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 343\n  y: 90\n}\nvertices {\n  x: 372\n  y: 92\n}\nvertices {\n  x: 372\n  y: 97\n}\nvertices {\n  x: 343\n  y: 95\n}\n",
+              "text": "aping"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 313\n  y: 367\n}\nvertices {\n  x: 343\n  y: 374\n}\nvertices {\n  x: 342\n  y: 380\n}\nvertices {\n  x: 312\n  y: 373\n}\n",
+              "text": "Submit"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 438\n  y: 130\n}\nvertices {\n  x: 350\n  y: 121\n}\nvertices {\n  x: 350\n  y: 115\n}\nvertices {\n  x: 439\n  y: 124\n}\n",
+              "text": "Stories"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 421\n  y: 111\n}\nvertices {\n  x: 443\n  y: 113\n}\nvertices {\n  x: 442\n  y: 119\n}\nvertices {\n  x: 420\n  y: 117\n}\n",
+              "text": "20"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 350\n  y: 484\n}\nvertices {\n  x: 351\n  y: 484\n}\nvertices {\n  x: 351\n  y: 486\n}\nvertices {\n  x: 350\n  y: 486\n}\n",
+              "text": "a"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 353\n  y: 484\n}\nvertices {\n  x: 360\n  y: 485\n}\nvertices {\n  x: 359\n  y: 487\n}\nvertices {\n  x: 353\n  y: 486\n}\n",
+              "text": "pe"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 363\n  y: 486\n}\nvertices {\n  x: 372\n  y: 488\n}\nvertices {\n  x: 371\n  y: 491\n}\nvertices {\n  x: 362\n  y: 489\n}\n",
+              "text": "care"
+            },
+            {
+              "bounding_box": "vertices {\n  x: 374\n  y: 488\n}\nvertices {\n  x: 385\n  y: 490\n}\nvertices {\n  x: 384\n  y: 492\n}\nvertices {\n  x: 374\n  y: 490\n}\n",
+              "text": "say"
+            }
+          ],
+          "LANDMARK_DETECTION": [
+            {
+            	"description":"Champ De Mars",
+           		"location":"latitude: 48.855647499999996\nlongitude: 2.2986304\n"
+            },
+            {
+            	"description":"Eiffel Tower",
+            	"location":"latitude: 48.858370099999995\nlongitude: 2.2944812999999997\n"
+            },
+            {
+            	"description":"Pont De Bir-Hakeim",
+            	"location":"latitude: 48.8555961\nlongitude: 2.2875917\n"
+            }
+          ],
+          "IMAGE_PROPERTIES": [
+            {
+              "red": 77,
+              "green": 55,
+              "blue": 26,
+              "fraction": 0.12946428
+            },
+            {
+              "red": 98,
+              "green": 75,
+              "blue": 33,
+              "fraction": 0.09169408
+            },
+            {
+              "red": 152,
+              "green": 169,
+              "blue": 70,
+              "fraction": 0.0046405075
+            },
+            {
+              "red": 165,
+              "green": 194,
+              "blue": 74,
+              "fraction": 0.003230733
+            },
+            {
+              "red": 234,
+              "green": 229,
+              "blue": 221,
+              "fraction": 0.05592105
+            },
+            {
+              "red": 97,
+              "green": 73,
+              "blue": 43,
+              "fraction": 0.06608318
+            },
+            {
+              "red": 83,
+              "green": 61,
+              "blue": 23,
+              "fraction": 0.014097745
+            },
+            {
+              "red": 171,
+              "green": 191,
+              "blue": 83,
+              "fraction": 0.003994361
+            },
+            {
+              "red": 199,
+              "green": 150,
+              "blue": 75,
+              "fraction": 0.010044643
+            },
+            {
+              "red": 129,
+              "green": 103,
+              "blue": 58,
+              "fraction": 0.10408834
+            }
+          ],
+          "LABEL_DETECTION": [
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8314035",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/02rdsp",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8314035",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Office supplies"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8173051",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0h8p55j",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8173051",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Shipping box"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8119696",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/083vt",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8119696",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Wood"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.80849004",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/02qz80",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.80849004",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Packaging and labeling"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.80807006",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/033rv2",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.80807006",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Carton"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.8012792",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0j272k5",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8012792",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Eyewear"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.7904406",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/01yttv",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.7904406",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Audio equipment"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.7767976",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/02mf1n",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.7767976",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Gadget"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.7710649",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/03q7pgh",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.7710649",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Cardboard"
+            },
+            {
+              "google.cloud.vision.v1.EntityAnnotation.score": "0.7688357",
+              "google.cloud.vision.v1.EntityAnnotation.mid": "/m/03qtgjk",
+              "google.cloud.vision.v1.EntityAnnotation.topicality": "0.7688357",
+              "google.cloud.vision.v1.EntityAnnotation.description": "Office equipment"
+            }
+          ],
+          "FACE_DETECTION": [],
+          "OBJECT_LOCALIZATION": [
+            {
+              "score": 0.85101014,
+              "vertices": [
+                {
+                  "x": 0.07240892,
+                  "y": 0.08715283
+                },
+                {
+                  "x": 0.8682293,
+                  "y": 0.08715283
+                },
+                {
+                  "x": 0.8682293,
+                  "y": 0.9825306
+                },
+                {
+                  "x": 0.07240892,
+                  "y": 0.9825306
+                }
+              ],
+              "name": "Shipping box"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

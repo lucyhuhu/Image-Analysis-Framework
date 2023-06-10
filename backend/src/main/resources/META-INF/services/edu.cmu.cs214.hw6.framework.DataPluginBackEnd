@@ -1,0 +1,6 @@
+# List of plugins to be registered by framework.
+# Provide fully qualified class names here ( edu.cmu.cs214.hw6.plugin.XXX ),
+# with one plugin per line.
+edu.cmu.cs214.hw6.plugin.Unsplash
+edu.cmu.cs214.hw6.plugin.Upload
+edu.cmu.cs214.hw6.plugin.Scraper

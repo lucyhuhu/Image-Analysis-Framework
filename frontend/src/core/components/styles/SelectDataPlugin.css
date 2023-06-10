@@ -1,0 +1,42 @@
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin: 120px 0px 0px 0px;
+}
+
+.title {
+  color: #0A2540;
+  font-weight: 600;
+  font-size: 54px;
+}
+
+.descrp{
+  color: #645BFF;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+.selector{
+  background: #E9ECEF;
+  width: 250px;
+  height: max-content;
+  border: 1px solid #CED4DA;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  font-size: 18px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+.items {
+  font-size: 18px;
+  background: #E9ECEF;
+  width: 250px;
+}
+
+#select-data{
+  margin-top: 20vh;
+}

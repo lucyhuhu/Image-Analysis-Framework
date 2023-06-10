@@ -1,0 +1,54 @@
+#footer{
+  background-image: url('../../../../public/bg.png');
+  background-position: center;
+  position: absolute;
+  bottom: 0;
+  padding: 5vh 5vw;
+  width: 90vw;
+  height: 15vh; 
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.website-logo-name{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  
+}
+
+.logo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.dataplugins, .visplugins{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.section-name{
+  font-weight: 500;
+}
+
+.footer-col{
+  height: 100%;
+}
+
+.plugins{
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 80%;
+  gap: 5px;
+}

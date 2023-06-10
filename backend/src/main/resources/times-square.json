@@ -1,0 +1,675 @@
+{
+    "responses": {
+      "TEXT_DETECTION": [
+        {
+          "bounding_box": "vertices {\n  x: -3\n  y: 167\n}\nvertices {\n  x: 1176\n  y: 167\n}\nvertices {\n  x: 1176\n  y: 778\n}\nvertices {\n  x: -3\n  y: 778\n}\n",
+          "text": "SQUARE\nLATION\nTER\nAND\nwww.\nWHERE\nMAXIMUM\nPERFORMANCE\nLIVES\nmaxell\nww.mell.com\nMcDonald's\nBest\nwwww\nIM\nFRIS\nLame25\nWINNER\nBEST\nMUSICAL\n2009 TONY AWARD\nBILINE\nPREL\nwww\nME\n\"THIS FEELGOOD MUSICAL\nIS A PHENOMENON\nMAMMA\nMIA!\nPOSE\n10\nwww\nStatis\nCEYDEL\nTELLULE\nDWHEE\nKITES\nLUTE\nTU\n2009\nTOSHIBA\nTOSHIBA\nMCLLO\n25\nALLE\nTHORS INVILKE\nFRANCIS P DUFFY\nTLASE DON-URLAR\nSLORIN SORMAY\nARAMAIN\nCARBUTOMOTRE\nCUFFICIENT\nLUTE OF SERVICE\nGg and tourTRY\nANORANC\nNOWYCH MADRID\nSOKAN BATER\nariyon\nwww.\nTHE\nON\nIFA\nLUFTENDER 19\nEDHE\nRS\nSheckler.\n2008\nsmile?\n3DEVE\nIN THEATRES 2 WEEKS 27\nTOY To\nSTORY\n215\nAUXILER\ncoungeம\nWEST ENTRA\nHelped injured\nopponent win.\nSPORTSMANSHIP\nPass It O\nVAL\nBank of merca"
+        },
+        {
+          "bounding_box": "vertices {\n  x: -2\n  y: 643\n}\nvertices {\n  x: 21\n  y: 642\n}\nvertices {\n  x: 21\n  y: 649\n}\nvertices {\n  x: -2\n  y: 650\n}\n",
+          "text": "SQUARE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: -3\n  y: 649\n}\nvertices {\n  x: 18\n  y: 647\n}\nvertices {\n  x: 19\n  y: 657\n}\nvertices {\n  x: -2\n  y: 659\n}\n",
+          "text": "LATION"
+        },
+        {
+          "bounding_box": "vertices {\n  x: -2\n  y: 660\n}\nvertices {\n  x: 8\n  y: 660\n}\nvertices {\n  x: 8\n  y: 666\n}\nvertices {\n  x: -2\n  y: 666\n}\n",
+          "text": "TER"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 43\n  y: 683\n}\nvertices {\n  x: 14\n  y: 683\n}\nvertices {\n  x: 14\n  y: 667\n}\nvertices {\n  x: 43\n  y: 667\n}\n",
+          "text": "AND"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 68\n  y: 664\n}\nvertices {\n  x: 51\n  y: 664\n}\nvertices {\n  x: 51\n  y: 659\n}\nvertices {\n  x: 68\n  y: 659\n}\n",
+          "text": "www"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 52\n  y: 664\n}\nvertices {\n  x: 47\n  y: 664\n}\nvertices {\n  x: 47\n  y: 659\n}\nvertices {\n  x: 52\n  y: 659\n}\n",
+          "text": "."
+        },
+        {
+          "bounding_box": "vertices {\n  x: 180\n  y: 392\n}\nvertices {\n  x: 219\n  y: 400\n}\nvertices {\n  x: 217\n  y: 411\n}\nvertices {\n  x: 178\n  y: 403\n}\n",
+          "text": "WHERE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 180\n  y: 406\n}\nvertices {\n  x: 255\n  y: 419\n}\nvertices {\n  x: 252\n  y: 433\n}\nvertices {\n  x: 178\n  y: 420\n}\n",
+          "text": "MAXIMUM"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 178\n  y: 422\n}\nvertices {\n  x: 255\n  y: 435\n}\nvertices {\n  x: 253\n  y: 446\n}\nvertices {\n  x: 176\n  y: 433\n}\n",
+          "text": "PERFORMANCE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 176\n  y: 435\n}\nvertices {\n  x: 212\n  y: 442\n}\nvertices {\n  x: 210\n  y: 455\n}\nvertices {\n  x: 174\n  y: 448\n}\n",
+          "text": "LIVES"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 168\n  y: 510\n}\nvertices {\n  x: 245\n  y: 514\n}\nvertices {\n  x: 244\n  y: 534\n}\nvertices {\n  x: 167\n  y: 530\n}\n",
+          "text": "maxell"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 193\n  y: 534\n}\nvertices {\n  x: 243\n  y: 537\n}\nvertices {\n  x: 242\n  y: 544\n}\nvertices {\n  x: 193\n  y: 541\n}\n",
+          "text": "ww.mell.com"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 149\n  y: 567\n}\nvertices {\n  x: 191\n  y: 569\n}\nvertices {\n  x: 191\n  y: 577\n}\nvertices {\n  x: 149\n  y: 575\n}\n",
+          "text": "McDonald's"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 155\n  y: 577\n}\nvertices {\n  x: 166\n  y: 577\n}\nvertices {\n  x: 166\n  y: 580\n}\nvertices {\n  x: 155\n  y: 580\n}\n",
+          "text": "Best"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 187\n  y: 595\n}\nvertices {\n  x: 150\n  y: 594\n}\nvertices {\n  x: 150\n  y: 584\n}\nvertices {\n  x: 187\n  y: 585\n}\n",
+          "text": "wwww"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 149\n  y: 602\n}\nvertices {\n  x: 176\n  y: 603\n}\nvertices {\n  x: 175\n  y: 626\n}\nvertices {\n  x: 148\n  y: 625\n}\n",
+          "text": "IM"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 216\n  y: 590\n}\nvertices {\n  x: 234\n  y: 590\n}\nvertices {\n  x: 234\n  y: 595\n}\nvertices {\n  x: 216\n  y: 595\n}\n",
+          "text": "FRIS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 189\n  y: 616\n}\nvertices {\n  x: 217\n  y: 616\n}\nvertices {\n  x: 217\n  y: 624\n}\nvertices {\n  x: 189\n  y: 624\n}\n",
+          "text": "Lame25"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 315\n  y: 305\n}\nvertices {\n  x: 363\n  y: 324\n}\nvertices {\n  x: 359\n  y: 336\n}\nvertices {\n  x: 310\n  y: 317\n}\n",
+          "text": "WINNER"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 325\n  y: 325\n}\nvertices {\n  x: 352\n  y: 335\n}\nvertices {\n  x: 348\n  y: 346\n}\nvertices {\n  x: 321\n  y: 335\n}\n",
+          "text": "BEST"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 313\n  y: 333\n}\nvertices {\n  x: 361\n  y: 350\n}\nvertices {\n  x: 357\n  y: 361\n}\nvertices {\n  x: 309\n  y: 344\n}\n",
+          "text": "MUSICAL"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 315\n  y: 347\n}\nvertices {\n  x: 329\n  y: 352\n}\nvertices {\n  x: 326\n  y: 362\n}\nvertices {\n  x: 311\n  y: 357\n}\n",
+          "text": "2009"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 329\n  y: 352\n}\nvertices {\n  x: 340\n  y: 356\n}\nvertices {\n  x: 337\n  y: 366\n}\nvertices {\n  x: 325\n  y: 362\n}\n",
+          "text": "TONY"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 340\n  y: 356\n}\nvertices {\n  x: 356\n  y: 362\n}\nvertices {\n  x: 352\n  y: 372\n}\nvertices {\n  x: 336\n  y: 366\n}\n",
+          "text": "AWARD"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 310\n  y: 364\n}\nvertices {\n  x: 354\n  y: 378\n}\nvertices {\n  x: 346\n  y: 402\n}\nvertices {\n  x: 302\n  y: 389\n}\n",
+          "text": "BILINE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 306\n  y: 432\n}\nvertices {\n  x: 330\n  y: 437\n}\nvertices {\n  x: 329\n  y: 442\n}\nvertices {\n  x: 305\n  y: 437\n}\n",
+          "text": "PREL"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 319\n  y: 447\n}\nvertices {\n  x: 302\n  y: 444\n}\nvertices {\n  x: 303\n  y: 439\n}\nvertices {\n  x: 320\n  y: 442\n}\n",
+          "text": "www"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 389\n  y: 447\n}\nvertices {\n  x: 358\n  y: 446\n}\nvertices {\n  x: 358\n  y: 439\n}\nvertices {\n  x: 389\n  y: 440\n}\n",
+          "text": "ME"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 307\n  y: 473\n}\nvertices {\n  x: 310\n  y: 473\n}\nvertices {\n  x: 310\n  y: 480\n}\nvertices {\n  x: 307\n  y: 480\n}\n",
+          "text": "\""
+        },
+        {
+          "bounding_box": "vertices {\n  x: 310\n  y: 473\n}\nvertices {\n  x: 322\n  y: 473\n}\nvertices {\n  x: 322\n  y: 480\n}\nvertices {\n  x: 310\n  y: 480\n}\n",
+          "text": "THIS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 325\n  y: 473\n}\nvertices {\n  x: 357\n  y: 473\n}\nvertices {\n  x: 357\n  y: 480\n}\nvertices {\n  x: 325\n  y: 480\n}\n",
+          "text": "FEELGOOD"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 360\n  y: 473\n}\nvertices {\n  x: 385\n  y: 473\n}\nvertices {\n  x: 385\n  y: 481\n}\nvertices {\n  x: 360\n  y: 481\n}\n",
+          "text": "MUSICAL"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 317\n  y: 481\n}\nvertices {\n  x: 322\n  y: 481\n}\nvertices {\n  x: 322\n  y: 487\n}\nvertices {\n  x: 317\n  y: 487\n}\n",
+          "text": "IS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 323\n  y: 481\n}\nvertices {\n  x: 327\n  y: 481\n}\nvertices {\n  x: 327\n  y: 487\n}\nvertices {\n  x: 323\n  y: 487\n}\n",
+          "text": "A"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 330\n  y: 480\n}\nvertices {\n  x: 371\n  y: 481\n}\nvertices {\n  x: 371\n  y: 488\n}\nvertices {\n  x: 330\n  y: 487\n}\n",
+          "text": "PHENOMENON"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 320\n  y: 541\n}\nvertices {\n  x: 362\n  y: 542\n}\nvertices {\n  x: 362\n  y: 558\n}\nvertices {\n  x: 320\n  y: 557\n}\n",
+          "text": "MAMMA"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 328\n  y: 560\n}\nvertices {\n  x: 349\n  y: 560\n}\nvertices {\n  x: 349\n  y: 575\n}\nvertices {\n  x: 328\n  y: 575\n}\n",
+          "text": "MIA"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 348\n  y: 560\n}\nvertices {\n  x: 354\n  y: 560\n}\nvertices {\n  x: 354\n  y: 575\n}\nvertices {\n  x: 348\n  y: 575\n}\n",
+          "text": "!"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 450\n  y: 366\n}\nvertices {\n  x: 469\n  y: 372\n}\nvertices {\n  x: 465\n  y: 383\n}\nvertices {\n  x: 447\n  y: 376\n}\n",
+          "text": "POSE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 425\n  y: 405\n}\nvertices {\n  x: 468\n  y: 425\n}\nvertices {\n  x: 465\n  y: 431\n}\nvertices {\n  x: 422\n  y: 411\n}\n",
+          "text": "10"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 474\n  y: 305\n}\nvertices {\n  x: 487\n  y: 305\n}\nvertices {\n  x: 487\n  y: 312\n}\nvertices {\n  x: 474\n  y: 312\n}\n",
+          "text": "www"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 547\n  y: 278\n}\nvertices {\n  x: 516\n  y: 278\n}\nvertices {\n  x: 516\n  y: 273\n}\nvertices {\n  x: 547\n  y: 273\n}\n",
+          "text": "Statis"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 540\n  y: 327\n}\nvertices {\n  x: 479\n  y: 327\n}\nvertices {\n  x: 479\n  y: 319\n}\nvertices {\n  x: 540\n  y: 319\n}\n",
+          "text": "CEYDEL"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 547\n  y: 341\n}\nvertices {\n  x: 481\n  y: 339\n}\nvertices {\n  x: 481\n  y: 330\n}\nvertices {\n  x: 547\n  y: 332\n}\n",
+          "text": "TELLULE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 477\n  y: 342\n}\nvertices {\n  x: 536\n  y: 340\n}\nvertices {\n  x: 536\n  y: 349\n}\nvertices {\n  x: 477\n  y: 351\n}\n",
+          "text": "DWHEE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 496\n  y: 546\n}\nvertices {\n  x: 478\n  y: 544\n}\nvertices {\n  x: 479\n  y: 538\n}\nvertices {\n  x: 497\n  y: 540\n}\n",
+          "text": "KITES"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 517\n  y: 354\n}\nvertices {\n  x: 545\n  y: 353\n}\nvertices {\n  x: 545\n  y: 360\n}\nvertices {\n  x: 517\n  y: 361\n}\n",
+          "text": "LUTE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 669\n  y: 240\n}\nvertices {\n  x: 661\n  y: 240\n}\nvertices {\n  x: 661\n  y: 235\n}\nvertices {\n  x: 669\n  y: 235\n}\n",
+          "text": "TU"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 667\n  y: 278\n}\nvertices {\n  x: 685\n  y: 278\n}\nvertices {\n  x: 685\n  y: 284\n}\nvertices {\n  x: 667\n  y: 284\n}\n",
+          "text": "2009"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 664\n  y: 300\n}\nvertices {\n  x: 687\n  y: 300\n}\nvertices {\n  x: 687\n  y: 304\n}\nvertices {\n  x: 664\n  y: 304\n}\n",
+          "text": "TOSHIBA"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 655\n  y: 336\n}\nvertices {\n  x: 695\n  y: 336\n}\nvertices {\n  x: 695\n  y: 342\n}\nvertices {\n  x: 655\n  y: 342\n}\n",
+          "text": "TOSHIBA"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 691\n  y: 383\n}\nvertices {\n  x: 664\n  y: 384\n}\nvertices {\n  x: 664\n  y: 378\n}\nvertices {\n  x: 691\n  y: 377\n}\n",
+          "text": "MCLLO"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 687\n  y: 422\n}\nvertices {\n  x: 670\n  y: 422\n}\nvertices {\n  x: 670\n  y: 416\n}\nvertices {\n  x: 687\n  y: 416\n}\n",
+          "text": "25"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 689\n  y: 435\n}\nvertices {\n  x: 663\n  y: 435\n}\nvertices {\n  x: 663\n  y: 427\n}\nvertices {\n  x: 689\n  y: 427\n}\n",
+          "text": "ALLE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 734\n  y: 673\n}\nvertices {\n  x: 708\n  y: 672\n}\nvertices {\n  x: 708\n  y: 666\n}\nvertices {\n  x: 734\n  y: 667\n}\n",
+          "text": "THORS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 706\n  y: 672\n}\nvertices {\n  x: 674\n  y: 671\n}\nvertices {\n  x: 674\n  y: 665\n}\nvertices {\n  x: 706\n  y: 666\n}\n",
+          "text": "INVILKE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 672\n  y: 671\n}\nvertices {\n  x: 701\n  y: 672\n}\nvertices {\n  x: 701\n  y: 680\n}\nvertices {\n  x: 672\n  y: 679\n}\n",
+          "text": "FRANCIS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 704\n  y: 673\n}\nvertices {\n  x: 707\n  y: 673\n}\nvertices {\n  x: 707\n  y: 680\n}\nvertices {\n  x: 704\n  y: 680\n}\n",
+          "text": "P"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 711\n  y: 672\n}\nvertices {\n  x: 737\n  y: 673\n}\nvertices {\n  x: 737\n  y: 681\n}\nvertices {\n  x: 711\n  y: 680\n}\n",
+          "text": "DUFFY"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 734\n  y: 688\n}\nvertices {\n  x: 716\n  y: 688\n}\nvertices {\n  x: 716\n  y: 683\n}\nvertices {\n  x: 734\n  y: 683\n}\n",
+          "text": "TLASE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 714\n  y: 688\n}\nvertices {\n  x: 703\n  y: 688\n}\nvertices {\n  x: 703\n  y: 683\n}\nvertices {\n  x: 714\n  y: 683\n}\n",
+          "text": "DON"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 704\n  y: 688\n}\nvertices {\n  x: 702\n  y: 688\n}\nvertices {\n  x: 702\n  y: 683\n}\nvertices {\n  x: 704\n  y: 683\n}\n",
+          "text": "-"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 700\n  y: 688\n}\nvertices {\n  x: 676\n  y: 687\n}\nvertices {\n  x: 676\n  y: 681\n}\nvertices {\n  x: 700\n  y: 682\n}\n",
+          "text": "URLAR"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 732\n  y: 696\n}\nvertices {\n  x: 712\n  y: 696\n}\nvertices {\n  x: 712\n  y: 691\n}\nvertices {\n  x: 732\n  y: 691\n}\n",
+          "text": "SLORIN"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 707\n  y: 696\n}\nvertices {\n  x: 685\n  y: 695\n}\nvertices {\n  x: 685\n  y: 689\n}\nvertices {\n  x: 707\n  y: 690\n}\n",
+          "text": "SORMAY"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 690\n  y: 702\n}\nvertices {\n  x: 715\n  y: 702\n}\nvertices {\n  x: 715\n  y: 708\n}\nvertices {\n  x: 690\n  y: 708\n}\n",
+          "text": "ARAMAIN"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 673\n  y: 709\n}\nvertices {\n  x: 729\n  y: 711\n}\nvertices {\n  x: 729\n  y: 717\n}\nvertices {\n  x: 673\n  y: 715\n}\n",
+          "text": "CARBUTOMOTRE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 686\n  y: 716\n}\nvertices {\n  x: 720\n  y: 717\n}\nvertices {\n  x: 720\n  y: 723\n}\nvertices {\n  x: 686\n  y: 722\n}\n",
+          "text": "CUFFICIENT"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 684\n  y: 730\n}\nvertices {\n  x: 696\n  y: 730\n}\nvertices {\n  x: 696\n  y: 735\n}\nvertices {\n  x: 684\n  y: 735\n}\n",
+          "text": "LUTE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 698\n  y: 730\n}\nvertices {\n  x: 706\n  y: 730\n}\nvertices {\n  x: 706\n  y: 735\n}\nvertices {\n  x: 698\n  y: 735\n}\n",
+          "text": "OF"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 707\n  y: 730\n}\nvertices {\n  x: 728\n  y: 730\n}\nvertices {\n  x: 728\n  y: 735\n}\nvertices {\n  x: 707\n  y: 735\n}\n",
+          "text": "SERVICE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 678\n  y: 741\n}\nvertices {\n  x: 690\n  y: 741\n}\nvertices {\n  x: 690\n  y: 747\n}\nvertices {\n  x: 678\n  y: 747\n}\n",
+          "text": "Gg"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 691\n  y: 741\n}\nvertices {\n  x: 703\n  y: 741\n}\nvertices {\n  x: 703\n  y: 747\n}\nvertices {\n  x: 691\n  y: 747\n}\n",
+          "text": "and"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 704\n  y: 741\n}\nvertices {\n  x: 730\n  y: 741\n}\nvertices {\n  x: 730\n  y: 747\n}\nvertices {\n  x: 704\n  y: 747\n}\n",
+          "text": "tourTRY"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 676\n  y: 753\n}\nvertices {\n  x: 713\n  y: 754\n}\nvertices {\n  x: 713\n  y: 759\n}\nvertices {\n  x: 676\n  y: 758\n}\n",
+          "text": "ANORANC"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 671\n  y: 760\n}\nvertices {\n  x: 692\n  y: 761\n}\nvertices {\n  x: 692\n  y: 766\n}\nvertices {\n  x: 671\n  y: 765\n}\n",
+          "text": "NOWYCH"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 695\n  y: 760\n}\nvertices {\n  x: 737\n  y: 761\n}\nvertices {\n  x: 737\n  y: 767\n}\nvertices {\n  x: 695\n  y: 766\n}\n",
+          "text": "MADRID"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 683\n  y: 766\n}\nvertices {\n  x: 704\n  y: 767\n}\nvertices {\n  x: 704\n  y: 772\n}\nvertices {\n  x: 683\n  y: 771\n}\n",
+          "text": "SOKAN"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 706\n  y: 767\n}\nvertices {\n  x: 723\n  y: 767\n}\nvertices {\n  x: 723\n  y: 772\n}\nvertices {\n  x: 706\n  y: 772\n}\n",
+          "text": "BATER"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 707\n  y: 779\n}\nvertices {\n  x: 691\n  y: 779\n}\nvertices {\n  x: 691\n  y: 774\n}\nvertices {\n  x: 707\n  y: 774\n}\n",
+          "text": "ariyon"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 788\n  y: 486\n}\nvertices {\n  x: 772\n  y: 487\n}\nvertices {\n  x: 772\n  y: 481\n}\nvertices {\n  x: 788\n  y: 480\n}\n",
+          "text": "www"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 775\n  y: 486\n}\nvertices {\n  x: 770\n  y: 486\n}\nvertices {\n  x: 770\n  y: 480\n}\nvertices {\n  x: 775\n  y: 480\n}\n",
+          "text": "."
+        },
+        {
+          "bounding_box": "vertices {\n  x: 776\n  y: 510\n}\nvertices {\n  x: 783\n  y: 510\n}\nvertices {\n  x: 783\n  y: 513\n}\nvertices {\n  x: 776\n  y: 513\n}\n",
+          "text": "THE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 778\n  y: 516\n}\nvertices {\n  x: 784\n  y: 516\n}\nvertices {\n  x: 784\n  y: 519\n}\nvertices {\n  x: 778\n  y: 519\n}\n",
+          "text": "ON"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 804\n  y: 400\n}\nvertices {\n  x: 839\n  y: 390\n}\nvertices {\n  x: 847\n  y: 419\n}\nvertices {\n  x: 812\n  y: 429\n}\n",
+          "text": "IFA"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 813\n  y: 520\n}\nvertices {\n  x: 838\n  y: 515\n}\nvertices {\n  x: 839\n  y: 524\n}\nvertices {\n  x: 815\n  y: 529\n}\n",
+          "text": "LUFTENDER"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 838\n  y: 516\n}\nvertices {\n  x: 842\n  y: 515\n}\nvertices {\n  x: 843\n  y: 523\n}\nvertices {\n  x: 839\n  y: 524\n}\n",
+          "text": "19"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 814\n  y: 530\n}\nvertices {\n  x: 841\n  y: 526\n}\nvertices {\n  x: 842\n  y: 534\n}\nvertices {\n  x: 815\n  y: 538\n}\n",
+          "text": "EDHE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 871\n  y: 355\n}\nvertices {\n  x: 908\n  y: 352\n}\nvertices {\n  x: 910\n  y: 379\n}\nvertices {\n  x: 873\n  y: 382\n}\n",
+          "text": "RS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 875\n  y: 395\n}\nvertices {\n  x: 905\n  y: 392\n}\nvertices {\n  x: 906\n  y: 399\n}\nvertices {\n  x: 876\n  y: 402\n}\n",
+          "text": "Sheckler"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 905\n  y: 392\n}\nvertices {\n  x: 908\n  y: 392\n}\nvertices {\n  x: 909\n  y: 398\n}\nvertices {\n  x: 906\n  y: 398\n}\n",
+          "text": "."
+        },
+        {
+          "bounding_box": "vertices {\n  x: 866\n  y: 410\n}\nvertices {\n  x: 892\n  y: 406\n}\nvertices {\n  x: 893\n  y: 413\n}\nvertices {\n  x: 867\n  y: 417\n}\n",
+          "text": "2008"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 845\n  y: 498\n}\nvertices {\n  x: 861\n  y: 493\n}\nvertices {\n  x: 865\n  y: 504\n}\nvertices {\n  x: 849\n  y: 509\n}\n",
+          "text": "smile"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 860\n  y: 494\n}\nvertices {\n  x: 866\n  y: 492\n}\nvertices {\n  x: 869\n  y: 503\n}\nvertices {\n  x: 863\n  y: 504\n}\n",
+          "text": "?"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 917\n  y: 314\n}\nvertices {\n  x: 962\n  y: 283\n}\nvertices {\n  x: 969\n  y: 292\n}\nvertices {\n  x: 923\n  y: 323\n}\n",
+          "text": "3DEVE"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 927\n  y: 320\n}\nvertices {\n  x: 932\n  y: 317\n}\nvertices {\n  x: 936\n  y: 324\n}\nvertices {\n  x: 931\n  y: 327\n}\n",
+          "text": "IN"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 931\n  y: 318\n}\nvertices {\n  x: 949\n  y: 307\n}\nvertices {\n  x: 953\n  y: 313\n}\nvertices {\n  x: 935\n  y: 325\n}\n",
+          "text": "THEATRES"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 948\n  y: 308\n}\nvertices {\n  x: 951\n  y: 306\n}\nvertices {\n  x: 954\n  y: 312\n}\nvertices {\n  x: 952\n  y: 314\n}\n",
+          "text": "2"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 951\n  y: 305\n}\nvertices {\n  x: 964\n  y: 297\n}\nvertices {\n  x: 967\n  y: 303\n}\nvertices {\n  x: 955\n  y: 311\n}\n",
+          "text": "WEEKS"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 968\n  y: 295\n}\nvertices {\n  x: 976\n  y: 290\n}\nvertices {\n  x: 980\n  y: 296\n}\nvertices {\n  x: 972\n  y: 301\n}\n",
+          "text": "27"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 919\n  y: 357\n}\nvertices {\n  x: 945\n  y: 340\n}\nvertices {\n  x: 956\n  y: 358\n}\nvertices {\n  x: 930\n  y: 375\n}\n",
+          "text": "TOY"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 946\n  y: 341\n}\nvertices {\n  x: 963\n  y: 330\n}\nvertices {\n  x: 974\n  y: 347\n}\nvertices {\n  x: 957\n  y: 358\n}\n",
+          "text": "To"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 928\n  y: 376\n}\nvertices {\n  x: 944\n  y: 364\n}\nvertices {\n  x: 948\n  y: 370\n}\nvertices {\n  x: 932\n  y: 382\n}\n",
+          "text": "STORY"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1039\n  y: 178\n}\nvertices {\n  x: 1048\n  y: 178\n}\nvertices {\n  x: 1048\n  y: 183\n}\nvertices {\n  x: 1039\n  y: 183\n}\n",
+          "text": "215"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1083\n  y: 168\n}\nvertices {\n  x: 1114\n  y: 167\n}\nvertices {\n  x: 1114\n  y: 173\n}\nvertices {\n  x: 1083\n  y: 174\n}\n",
+          "text": "AUXILER"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1032\n  y: 443\n}\nvertices {\n  x: 1056\n  y: 444\n}\nvertices {\n  x: 1056\n  y: 451\n}\nvertices {\n  x: 1032\n  y: 450\n}\n",
+          "text": "counge"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1059\n  y: 443\n}\nvertices {\n  x: 1070\n  y: 443\n}\nvertices {\n  x: 1070\n  y: 450\n}\nvertices {\n  x: 1059\n  y: 450\n}\n",
+          "text": "ம"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1082\n  y: 214\n}\nvertices {\n  x: 1103\n  y: 214\n}\nvertices {\n  x: 1103\n  y: 224\n}\nvertices {\n  x: 1082\n  y: 224\n}\n",
+          "text": "WEST"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1105\n  y: 214\n}\nvertices {\n  x: 1130\n  y: 214\n}\nvertices {\n  x: 1130\n  y: 224\n}\nvertices {\n  x: 1105\n  y: 224\n}\n",
+          "text": "ENTRA"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1037\n  y: 317\n}\nvertices {\n  x: 1102\n  y: 316\n}\nvertices {\n  x: 1102\n  y: 336\n}\nvertices {\n  x: 1037\n  y: 337\n}\n",
+          "text": "Helped"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1108\n  y: 316\n}\nvertices {\n  x: 1173\n  y: 315\n}\nvertices {\n  x: 1173\n  y: 335\n}\nvertices {\n  x: 1108\n  y: 336\n}\n",
+          "text": "injured"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1040\n  y: 343\n}\nvertices {\n  x: 1128\n  y: 339\n}\nvertices {\n  x: 1129\n  y: 354\n}\nvertices {\n  x: 1041\n  y: 358\n}\n",
+          "text": "opponent"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1133\n  y: 340\n}\nvertices {\n  x: 1167\n  y: 339\n}\nvertices {\n  x: 1168\n  y: 353\n}\nvertices {\n  x: 1134\n  y: 354\n}\n",
+          "text": "win"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1170\n  y: 338\n}\nvertices {\n  x: 1175\n  y: 338\n}\nvertices {\n  x: 1176\n  y: 352\n}\nvertices {\n  x: 1171\n  y: 352\n}\n",
+          "text": "."
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1056\n  y: 365\n}\nvertices {\n  x: 1163\n  y: 364\n}\nvertices {\n  x: 1163\n  y: 378\n}\nvertices {\n  x: 1056\n  y: 379\n}\n",
+          "text": "SPORTSMANSHIP"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1084\n  y: 384\n}\nvertices {\n  x: 1102\n  y: 384\n}\nvertices {\n  x: 1102\n  y: 394\n}\nvertices {\n  x: 1084\n  y: 394\n}\n",
+          "text": "Pass"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1106\n  y: 384\n}\nvertices {\n  x: 1114\n  y: 384\n}\nvertices {\n  x: 1114\n  y: 393\n}\nvertices {\n  x: 1106\n  y: 393\n}\n",
+          "text": "It"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1116\n  y: 384\n}\nvertices {\n  x: 1126\n  y: 384\n}\nvertices {\n  x: 1126\n  y: 393\n}\nvertices {\n  x: 1116\n  y: 393\n}\n",
+          "text": "O"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 1072\n  y: 401\n}\nvertices {\n  x: 1083\n  y: 401\n}\nvertices {\n  x: 1083\n  y: 407\n}\nvertices {\n  x: 1072\n  y: 407\n}\n",
+          "text": "VAL"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 925\n  y: 568\n}\nvertices {\n  x: 960\n  y: 569\n}\nvertices {\n  x: 959\n  y: 591\n}\nvertices {\n  x: 924\n  y: 590\n}\n",
+          "text": "Bank"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 960\n  y: 569\n}\nvertices {\n  x: 977\n  y: 569\n}\nvertices {\n  x: 976\n  y: 591\n}\nvertices {\n  x: 959\n  y: 591\n}\n",
+          "text": "of"
+        },
+        {
+          "bounding_box": "vertices {\n  x: 993\n  y: 570\n}\nvertices {\n  x: 1118\n  y: 573\n}\nvertices {\n  x: 1117\n  y: 595\n}\nvertices {\n  x: 992\n  y: 592\n}\n",
+          "text": "merca"
+        }
+      ],
+      "LANDMARK_DETECTION": [
+        {
+          "description": "Times Square",
+          "location": "latitude: 40.75797469999999\nlongitude: -73.98554260000002\n"
+        }
+      ],
+      "IMAGE_PROPERTIES": [
+        {
+          "red": 175,
+          "green": 202,
+          "blue": 231,
+          "fraction": 0.0234
+        },
+        {
+          "red": 61,
+          "green": 84,
+          "blue": 105,
+          "fraction": 0.023066666
+        },
+        {
+          "red": 209,
+          "green": 73,
+          "blue": 63,
+          "fraction": 0.0048
+        },
+        {
+          "red": 241,
+          "green": 234,
+          "blue": 127,
+          "fraction": 0.00066666666
+        },
+        {
+          "red": 224,
+          "green": 191,
+          "blue": 97,
+          "fraction": 0.00086666667
+        },
+        {
+          "red": 246,
+          "green": 221,
+          "blue": 97,
+          "fraction": 0.00066666666
+        },
+        {
+          "red": 245,
+          "green": 104,
+          "blue": 67,
+          "fraction": 0.003
+        },
+        {
+          "red": 128,
+          "green": 158,
+          "blue": 187,
+          "fraction": 0.033466667
+        },
+        {
+          "red": 38,
+          "green": 56,
+          "blue": 78,
+          "fraction": 0.027133333
+        },
+        {
+          "red": 200,
+          "green": 226,
+          "blue": 249,
+          "fraction": 0.0042666667
+        }
+      ],
+      "LABEL_DETECTION": [
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.9651724",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0cgh4",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.9651724",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Building"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.9490303",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/079cl",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.9490303",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Skyscraper"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.94508463",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/02q7ylj",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.94508463",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Daytime"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.91276586",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0csby",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.91276586",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Cloud"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.91124463",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/04k84",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.91124463",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Light"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.89883953",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/017kvv",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.89883953",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Infrastructure"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.8903914",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/01bqvp",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8903914",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Sky"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.8197634",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/034z7h",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8197634",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Cityscape"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.81801105",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0180xr",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.81801105",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Neighbourhood"
+        },
+        {
+          "google.cloud.vision.v1.EntityAnnotation.score": "0.8052927",
+          "google.cloud.vision.v1.EntityAnnotation.mid": "/m/0vlys",
+          "google.cloud.vision.v1.EntityAnnotation.topicality": "0.8052927",
+          "google.cloud.vision.v1.EntityAnnotation.description": "Tower block"
+        }
+      ],
+      "FACE_DETECTION": [],
+      "OBJECT_LOCALIZATION": [
+        {
+          "score": 0.6800518,
+          "vertices": [
+            {
+              "x": 0,
+              "y": 0.0012325649
+            },
+            {
+              "x": 0.1788231,
+              "y": 0.0012325649
+            },
+            {
+              "x": 0.1788231,
+              "y": 0.7065746
+            },
+            {
+              "x": 0,
+              "y": 0.7065746
+            }
+          ],
+          "name": "Building"
+        },
+        {
+          "score": 0.5225372,
+          "vertices": [
+            {
+              "x": 0.1396442,
+              "y": 0.0067310124
+            },
+            {
+              "x": 0.3858401,
+              "y": 0.0067310124
+            },
+            {
+              "x": 0.3858401,
+              "y": 0.60976774
+            },
+            {
+              "x": 0.1396442,
+              "y": 0.60976774
+            }
+          ],
+          "name": "Building"
+        }
+      ]
+    }
+  }
